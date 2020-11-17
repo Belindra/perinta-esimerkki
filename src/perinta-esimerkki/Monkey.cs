@@ -28,7 +28,7 @@ namespace Perinta_esimerkki
 
         public virtual void Climb() // yksi variaatio virtual -metodista (tässä tapauksessa metodi käyttäytyy kuin mikä tahansa muu metodi)
         {
-            Console.WriteLine("Monkey is climbing");
+            Console.WriteLine("The monkey is climbing");
         }
     }
 }

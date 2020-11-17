@@ -13,7 +13,7 @@ namespace Perinta_esimerkki
         public Animal(string animalName)
         {
             Name = animalName;
-            Console.WriteLine("Created a new animal: " + Name);
+            Console.WriteLine("Created a new animal named: " + Name);
         }
 
         public override string ToString()
