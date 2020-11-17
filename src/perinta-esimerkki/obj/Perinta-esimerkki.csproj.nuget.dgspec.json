@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki.csproj": {}
+    "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\src\\Perinta-esimerkki\\Perinta-esimerkki.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki.csproj": {
+    "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\src\\Perinta-esimerkki\\Perinta-esimerkki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki.csproj",
+        "projectUniqueName": "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\src\\Perinta-esimerkki\\Perinta-esimerkki.csproj",
         "projectName": "Perinta-esimerkki",
-        "projectPath": "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki.csproj",
+        "projectPath": "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\src\\Perinta-esimerkki\\Perinta-esimerkki.csproj",
         "packagesPath": "C:\\Users\\s2000583\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\Perinta-esimerkki\\Perinta-esimerkki\\obj\\",
+        "outputPath": "C:\\Users\\s2000583\\source\\repos\\Perinta-esimerkki\\src\\Perinta-esimerkki\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

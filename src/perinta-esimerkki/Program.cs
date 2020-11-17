@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 
 namespace Perinta_esimerkki
 {
@@ -6,7 +7,22 @@ namespace Perinta_esimerkki
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var myMonkey = new Monkey("Bob")
+            {
+                Color = Color.Black
+            };
+            myMonkey.Climb();
+            myMonkey.Jump();
+
+            var myBird = new Bird("Eugene")
+            {
+               Color = Color.Red
+            };
+            myBird.Sing();
+
+            Console.WriteLine(myMonkey);
+            Console.WriteLine(myBird);
+            Console.ReadKey();
         }
     }
 }

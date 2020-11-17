@@ -1,0 +1,13 @@
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\bin\Debug\netcoreapp3.1\Perinta-esimerkki.exe
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\bin\Debug\netcoreapp3.1\Perinta-esimerkki.deps.json
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\bin\Debug\netcoreapp3.1\Perinta-esimerkki.runtimeconfig.json
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\bin\Debug\netcoreapp3.1\Perinta-esimerkki.runtimeconfig.dev.json
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\bin\Debug\netcoreapp3.1\Perinta-esimerkki.dll
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\bin\Debug\netcoreapp3.1\Perinta-esimerkki.pdb
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\obj\Debug\netcoreapp3.1\Perinta-esimerkki.csprojAssemblyReference.cache
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\obj\Debug\netcoreapp3.1\Perinta-esimerkki.AssemblyInfoInputs.cache
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\obj\Debug\netcoreapp3.1\Perinta-esimerkki.AssemblyInfo.cs
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\obj\Debug\netcoreapp3.1\Perinta-esimerkki.csproj.CoreCompileInputs.cache
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\obj\Debug\netcoreapp3.1\Perinta-esimerkki.dll
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\obj\Debug\netcoreapp3.1\Perinta-esimerkki.pdb
+C:\Users\s2000583\source\repos\Perinta-esimerkki\src\Perinta-esimerkki\obj\Debug\netcoreapp3.1\Perinta-esimerkki.genruntimeconfig.cache
